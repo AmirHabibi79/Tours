@@ -1,0 +1,17 @@
+.tours{
+    width: 90vw;
+    max-width: 620px;
+    margin: 5rem auto;
+}
+.underline{
+    width: 150%;
+    transform: translateX(-20%);
+    height: 5px;
+    background: rgb(73, 171, 201);
+}
+.header{
+    margin-top: 2rem;
+}
+h2{
+    margin:0;
+}
